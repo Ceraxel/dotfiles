@@ -1,0 +1,29 @@
+# Alcritty colors
+# Dark Material Themed
+
+colors:
+  primary:
+    #background: '#101012'
+    background: '#0b0f10'
+    foreground: '#bfc9db'
+  cursor:
+    text:   CellForeground
+    cursor: '#bfc9db'
+  bright:
+    black:   '#646a73'
+    red:     '#ee6a70'
+    green:   '#96d6b0'
+    yellow:  '#ffecb3'
+    blue:    '#7ba5dd'
+    magenta: '#cb92f2'
+    cyan:    '#7fc8db'
+    white:   '#858893'
+  normal:
+    black:   '#646a73'
+    red:     '#df5b61'
+    green:   '#87c7a1'
+    yellow:  '#fff59d'
+    blue:    '#6791c9'
+    magenta: '#bc83e3'
+    cyan:    '#70b9cc'
+    white:   '#ffffff'
