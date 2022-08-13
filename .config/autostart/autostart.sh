@@ -19,7 +19,7 @@ xcape -e 'Caps_Lock=Escape'
 #
 #
 pgrep -x sxhkd > /dev/null 
-sxhkd -c ~/.config/dwm/sxhkdrc &
+sxhkd &
 ~/.local/scripts/mvcursor.sh
 #killall geoclue
 #killall redshift
