@@ -100,8 +100,10 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+export EDITOR="/usr/bin/nvim"
+export VISUAL="/usr/bin/nvim"
 export PATH="$HOME/.local/bin:$PATH"
 #export PATH="/var/lib/flatpak/exports/bin:$PATH"
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 alias vdwm='~/.config/dwm/dwm'
-alias v='lvim'
+alias cfg='~/.config'
