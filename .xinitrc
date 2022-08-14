@@ -49,6 +49,4 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
 fi
 
 exec ~/.config/autostart/autostart.sh &
-exec picom &
-exec dwm &
-exec slstatus
+exec dwm
