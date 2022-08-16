@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/zsh
 
-alacritty -e lf
+alacritty --command lf --config ~/.config/lf/lfrc
