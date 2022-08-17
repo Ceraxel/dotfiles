@@ -55,5 +55,5 @@ xsetroot -cursor_name left_ptr &
 ~/.config/bspwm/scripts/low_bat_notifier.sh
 xinput --set-prop 13 'libinput Accel Speed' -0.7
 
-exec picom &
+exec picom --experimental-backends &
 exec slstatus
