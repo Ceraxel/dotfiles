@@ -3,8 +3,8 @@
 #
 
 # terminal emulator
-super + Return
-        st
+#super + Return
+#        st
 
 super + r 
   	$HOME/.local/bin/lf.sh
@@ -28,8 +28,8 @@ super + r
                 #-show-icons -drun-icon-theme "Arc-X-D" -font "Droid Sans Regular 10"
 
 # power-menu 
-super + shift + Return
-     ~/.config/rofi/powermenu.sh
+#super + shift + Return
+     #~/.config/rofi/powermenu.sh
 
 # Wifi menu
 super + ctrl + r
