@@ -209,6 +209,10 @@ super + {a,s}
 super + c
   ~/.local/bin/eyecomfort
 
+#Dunst history
+super + x
+  ~/.local/bin/NotifHist.sh
+
 # Screenshot
 super + shift + p
   ~/.local/scripts/flameshot.sh

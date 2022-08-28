@@ -7,7 +7,7 @@ configuration {
     /** font:				"Sourcecode Pro Regular 10"; **/
     font:				"JetBrains Mono 10";
     show-icons:				true;
-    icon-theme:				"Arc-X-D";
+    icon-theme:				"Papirus-light";
     display-drun:			"Apps";
     drun-display-format:		"{name}";
     scroll-method:			0;
@@ -15,7 +15,7 @@ configuration {
     sidebar-mode:			false;
 }
 
-@import "~/.config/rofi/color-theme/gruvbox-dark-hard.rasi"
+@import "~/.config/rofi/color-theme/gruvbox-dark.rasi"
 
 window {
     background-color: @background;
@@ -24,7 +24,7 @@ window {
 }
 listview {
     lines:                          10;
-    columns:                        3;
+    columns:                        2;
 }
 mainbox {
     border:  0;
@@ -42,9 +42,9 @@ listview {
     fixed-height: 0;
     border:       8px 0px 0px ;
     border-color: @separatorcolor;
-    spacing:      8px ;
+    spacing:      4px ;
     scrollbar:    false;
-    padding:      2px 0px 0px ;
+    padding:      5px 0px 0px ;
 }
 element {
     border:  0;
@@ -67,8 +67,8 @@ element.normal.active {
     text-color:       @active-foreground;
 }
 element.selected.normal {
-    background-color: @selected-normal-background;
-    text-color:       @selected-normal-foreground;
+    background-color: @selected-normal-foreground;
+    text-color:       @selected-normal-background;
 }
 element.selected.urgent {
     background-color: @selected-urgent-background;
