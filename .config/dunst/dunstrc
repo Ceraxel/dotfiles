@@ -13,7 +13,7 @@
     # dynamic width from 0 to 300
     # width = (0, 300)
     # constant width of 300
-    width = 300
+    width = 400
 
     # The maximum height of a single notification, excluding the frame.
     height = 300
@@ -22,7 +22,7 @@
     origin = top-right
 
     # Offset from the origin
-    offset = 3x21
+    offset = 21x21
 
     # Scale factor. It is auto-detected if value is 0.
     scale = 0
@@ -80,7 +80,7 @@
 
     # Defines color of the frame around the notification window.
     frame_color = "#ffffff"
-    highlight = "#000000"
+    highlight = "#ffffff"
 
     # Size of gap to display between notifications - requires a compositor.
     # If value is greater than 0, separator_height will be ignored and a border
@@ -235,7 +235,7 @@
     # corners.
     # The radius will be automatically lowered if it exceeds half of the
     # notification height to avoid clipping text and/or icons.
-    corner_radius = 15
+    corner_radius = 0
 
     # Ignore the dbus closeNotification message.
     # Useful to enforce the timeout set by dunst configuration. Without this

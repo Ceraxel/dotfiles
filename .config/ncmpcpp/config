@@ -237,9 +237,10 @@ playlist_disable_highlight_delay = 0
 #
 #song_library_format = {%n - }{%t}|{%f}
 #
-#alternative_header_first_line_format = $b$1$aqqu$/a$9 {%t}|{%f} $1$atqq$/a$9$/b
+alternative_header_first_line_format = $b$1$aqqu$/a$9 {%t}|{%f} $1$atqq$/a$9$/b
 #
 #alternative_header_second_line_format = {{$4$b%a$/b$9}{ - $7%b$9}{ ($4%y$9)}}|{%D}
+alternative_header_second_line_format = {{$3$b%a$/b$9}{ - $1%b$9}{ ($3%y$9)}}|{%D}
 #
 #current_item_prefix = $(yellow)$r
 #
@@ -312,6 +313,7 @@ playlist_disable_highlight_delay = 0
 ##
 #
 #song_columns_list_format = (20)[]{a} (6f)[green]{NE} (50)[white]{t|f:Title} (20)[cyan]{b} (7f)[magenta]{l}
+song_columns_list_format = (20)[green]{a} (50)[black]{t|f:Title} (20)[cyan]{b}
 #
 ##### various settings #####
 #
@@ -566,7 +568,7 @@ user_interface = alternative
 #
 #empty_tag_color = cyan
 #
-#header_window_color = default
+header_window_color = blue
 #
 #volume_color = default
 #
@@ -574,7 +576,7 @@ user_interface = alternative
 #
 #state_flags_color = default:b
 #
-#main_window_color = yellow
+main_window_color = black
 #
 #color1 = white
 #

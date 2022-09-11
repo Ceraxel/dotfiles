@@ -204,7 +204,7 @@ super + e
 
 # Vol Control
 super + {a,s}
-  pamixer {-d 2,-i 2}
+  volumenotification.sh {down,up}
 # Redshift
 super + c
   ~/.local/bin/eyecomfort
