@@ -3,4 +3,4 @@
 killall geoclue
 killall redshift
 exec /usr/lib/geoclue-2.0/demos/agent &
-exec redshift -t 6500K:4500K &
+exec redshift -O 5500k

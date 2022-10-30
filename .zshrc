@@ -113,6 +113,8 @@ export PATH="$HOME/.local/bin:$PATH"
 #export PATH="/var/lib/flatpak/exports/bin:$PATH"
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 alias vdwm='~/.config/dwm/dwm'
+alias vim='lvim'
+alias nvim='lvim'
 alias cfg='~/.config'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.

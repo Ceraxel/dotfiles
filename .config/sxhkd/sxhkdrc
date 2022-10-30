@@ -209,6 +209,9 @@ super + {a,s}
 super + c
   ~/.local/bin/eyecomfort
 
+super + shift + c
+  ~/.local/bin/ResetEyeComfort
+
 #Dunst history
 super + x
   ~/.local/bin/NotifHist.sh

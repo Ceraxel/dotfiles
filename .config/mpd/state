@@ -1,9 +1,7 @@
-sw_volume: 98
+sw_volume: 100
 audio_device_state:1:PipeWire Sound Server
 audio_device_state:1:my_fifo
-state: pause
-current: 43
-time: 58.945000
+state: stop
 random: 1
 repeat: 0
 single: 0
@@ -12,59 +10,4 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Yorushika/2020.07.29 [Album] 盗作/02. 昼鳶.flac
-1:Yorushika/2017.06.28 [EP] 夏草が邪魔をする/02. カトレア.flac
-2:Yorushika/2017.06.28 [EP] 夏草が邪魔をする/04. あの夏に咲け.flac
-3:Yorushika/2017.06.28 [EP] 夏草が邪魔をする/05. 飛行.flac
-4:Yorushika/2017.06.28 [EP] 夏草が邪魔をする/06. 靴の花火.flac
-5:Yorushika/2017.06.28 [EP] 夏草が邪魔をする/07. 雲と幽霊.flac
-6:Yorushika/2018.05.09 [EP] 負け犬にアンコールはいらない/01. 前世.flac
-7:Yorushika/2018.05.09 [EP] 負け犬にアンコールはいらない/02. 負け犬にアンコールはいらない.flac
-8:Yorushika/2018.05.09 [EP] 負け犬にアンコールはいらない/03. 爆弾魔.flac
-9:Yorushika/2018.05.09 [EP] 負け犬にアンコールはいらない/05. 落下.flac
-10:Yorushika/2018.05.09 [EP] 負け犬にアンコールはいらない/07. ただ君に晴れ.flac
-11:Yorushika/2019.08.28 [Album] エルマ/01. 車窓.flac
-12:Yorushika/2019.08.28 [Album] エルマ/02. 憂一乗.flac
-13:Yorushika/2019.08.28 [Album] エルマ/04. 雨とカプチーノ.flac
-14:Yorushika/2019.08.28 [Album] エルマ/05. 湖の街.flac
-15:Yorushika/2019.08.28 [Album] エルマ/06. 神様のダンス.flac
-16:Yorushika/2019.08.28 [Album] エルマ/07. 雨晴るる.flac
-17:Yorushika/2019.08.28 [Album] エルマ/09. 心に穴が空いた.flac
-18:Yorushika/2019.08.28 [Album] エルマ/10. 森の教会.flac
-19:Yorushika/2019.08.28 [Album] エルマ/11. 声.flac
-20:Yorushika/2019.08.28 [Album] エルマ/12. エイミー.flac
-21:Yorushika/2019.08.28 [Album] エルマ/13. 海底、月明かり.flac
-22:Yorushika/2019.08.28 [Album] エルマ/14. ノーチラス.flac
-23:Yorushika/2019.04.10 [Album] だから僕は音楽を辞めた/01. 831.flac
-24:Yorushika/2019.04.10 [Album] だから僕は音楽を辞めた/03. 八月、某、月明かり.flac
-25:Yorushika/2019.04.10 [Album] だから僕は音楽を辞めた/04. 詩書きとコーヒー.flac
-26:Yorushika/2019.04.10 [Album] だから僕は音楽を辞めた/06. 踊ろうぜ.flac
-27:Yorushika/2019.04.10 [Album] だから僕は音楽を辞めた/08. 五月は花緑青の窓辺から.flac
-28:Yorushika/2019.04.10 [Album] だから僕は音楽を辞めた/10. 56.flac
-29:Yorushika/2019.04.10 [Album] だから僕は音楽を辞めた/11. パレード.flac
-30:Yorushika/2019.04.10 [Album] だから僕は音楽を辞めた/13. 410.flac
-31:Yorushika/2019.06.24 [Single] 心に穴が空いた/01. 心に穴が空いた.flac
-32:Yorushika/2020.06.24 [Single] 思想犯/01. 思想犯.flac
-33:Yorushika/2020.06.03 [Single] 春ひさぎ/01. 春ひさぎ.flac
-34:Yorushika/2020.07.22 [Single] 盗作/01. 盗作.flac
-35:Yorushika/2020.07.29 [Album] 盗作/01. 音楽泥棒の自白.flac
-36:Yorushika/2020.07.29 [Album] 盗作/02. 昼鳶.flac
-37:Yorushika/2020.07.29 [Album] 盗作/03. 春ひさぎ.flac
-38:Yorushika/2020.07.29 [Album] 盗作/04. 爆弾魔.flac
-39:Yorushika/2020.07.29 [Album] 盗作/05. 青年期、空き巣.flac
-40:Yorushika/2020.07.29 [Album] 盗作/07. 花人局.flac
-41:Yorushika/2020.07.29 [Album] 盗作/09. 盗作.flac
-42:Yorushika/2020.07.29 [Album] 盗作/10. 思想犯.flac
-43:Yorushika/2020.07.29 [Album] 盗作/11. 逃亡.flac
-44:Yorushika/2020.07.29 [Album] 盗作/12. 幼年期、思い出の中.flac
-45:Yorushika/2020.07.29 [Album] 盗作/13. 夜行.flac
-46:Yorushika/2020.07.29 [Album] 盗作/14. 花に亡霊.flac
-47:Yorushika/2020.04.22 [Single] 花に亡霊/01. 花に亡霊.flac
-48:Yorushika/2020.10.07 [Single] 風を食む/01. 風を食む.flac
-49:Yorushika/2021.01.27 [EP] 創作/01. 強盗と花束.flac
-50:Yorushika/2021.01.27 [EP] 創作/04. 風を食む.flac
-51:Yorushika/2021.01.27 [EP] 創作/05. 嘘月.flac
-52:Yorushika/2021.01.09 [Single] 春泥棒/01. 春泥棒.flac
-53:Yorushika/2021.10.06 [Single] 月に吠える/01. 月に吠える.flac
-54:Yorushika/2021.08.18 [Single] 老人と海/01. 老人と海.flac
 playlist_end
